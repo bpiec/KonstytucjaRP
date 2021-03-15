@@ -124,7 +124,7 @@ Art. 30.
 Art. 31.
   1. Wolność człowieka podlega ochronie prawnej.
   2. Każdy jest obowiązany szanować wolności i prawa innych. Nikogo nie wolno zmuszać do czynienia tego, czego prawo mu nie nakazuje.
-  3. Ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw mogą by ustanawiane tylko w ustawie i tylko wtedy, gdy są konieczne w demokratycznym państwie dla jego bezpieczeństwa lub porządku publicznego, bądź dla ochrony środowiska, zdrowia i moralności publicznej, albo wolności i praw innych osób. Ograniczenia te nie mogą naruszać istoty wolności i praw.
+  3. Ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw mogą być ustanawiane tylko w ustawie i tylko wtedy, gdy są konieczne w demokratycznym państwie dla jego bezpieczeństwa lub porządku publicznego, bądź dla ochrony środowiska, zdrowia i moralności publicznej, albo wolności i praw innych osób. Ograniczenia te nie mogą naruszać istoty wolności i praw.
 
 Art. 32.
   1. Wszyscy są wobec prawa równi. Wszyscy mają prawo do równego traktowania przez władze publiczne.
@@ -407,7 +407,7 @@ Art. 92.
   2. Organ upoważniony do wydania rozporządzenia nie może przekazać swoich kompetencji, o których mowa w ust. 1, innemu organowi.
 
 Art. 93.
-  1. Uchwały Rady Ministrów oraz zarządzenia Prezesa Rady Ministrów i ministrów mają charakter wewnętrzny i obowiązują tylko jednostki organizacyjne podległe organowi wydającemu te akty.
+  1. Uchwały Rady Ministrów oraz zarządzenia Prezesa Rady Ministrów i ministrów mają charakter wewnętrzny i obowiązują tylko jednostki organizacyjnie podległe organowi wydającemu te akty.
   2. Zarządzenia są wydawane tylko na podstawie ustawy. Nie mogą one stanowić podstawy decyzji wobec obywateli, osób prawnych oraz innych podmiotów.
   3. Uchwały i zarządzenia podlegają kontroli co do ich zgodności z powszechnie obowiązującym prawem.
 
